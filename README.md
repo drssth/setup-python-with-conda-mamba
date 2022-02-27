@@ -20,3 +20,8 @@ set up python with conda/mamba (both windows and linux)
 5. install packages: numpy scipy scikit-learn 
 6. setup jupyter: install jupyter notebook jupyterlab and run
 7. using mamba inside notebook
+
+
+## video demonstration (about 30 mins full recording)
+- youtube: https://www.youtube.com/watch?v=Iwoq9we3f58
+- bilibili: https://www.bilibili.com/video/BV1r34y1r7xF
