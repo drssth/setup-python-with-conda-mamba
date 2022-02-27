@@ -21,6 +21,10 @@ set up python with conda/mamba (both windows and linux)
 6. setup jupyter: install jupyter notebook jupyterlab and run
 7. using mamba inside notebook
 
+## run
+1. the bash script has been tested on ubuntu
+2. the bat script is a collection of the commands from the demo video
+
 
 ## video demonstration (about 30 mins full recording)
 - youtube: https://www.youtube.com/watch?v=Iwoq9we3f58
